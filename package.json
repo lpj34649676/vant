@@ -1,0 +1,19 @@
+{
+  "name": "vant",
+  "version": "1.0.0",
+  "description": "## please send a pull request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HelloMrJay/vant.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HelloMrJay/vant/issues"
+  },
+  "homepage": "https://github.com/HelloMrJay/vant#readme"
+}
